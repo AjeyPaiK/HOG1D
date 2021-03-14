@@ -1,9 +1,9 @@
 # HOG1D
-Implementation of Histogram of Gradients for Time Series classification
+Implementation of Histogram of Oriented Gradients for Time Series classification
 
 We have the foot-ground angle data from various subjects collected from a novel instrument that we developed. The data has been collected during three walking modes: Level Walk (LW), Ramp Ascent (RA) and Ramp Descent (RD).
 
-This repository contains our implementation of Histogram of Gradients (HOG) for these 1-D time series. The script creates a data file in CSV format which was later used to classify the signals using a Support Vector Machine.
+This repository contains our implementation of Histogram of Oriented Gradients (HOG) for these 1-D time series. The script creates a data file in CSV format which was later used to classify the signals using a Support Vector Machine.
 
 Some images:
 
